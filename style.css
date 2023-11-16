@@ -1,4 +1,16 @@
 html {
   height: 100%;
-  width: 150%;
+  width: 100%;
+}
+h2 {
+  color: goldenrod;
+  font-style: italic;
+}
+
+.text-center {
+  color: goldenrod;
+}
+
+p {
+  padding-left: 10px;
 }
